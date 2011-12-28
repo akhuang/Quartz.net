@@ -1,6 +1,0 @@
-E:\Net\Quartz.net\Ex01\Ex01\obj\Debug\ResolveAssemblyReference.cache
-E:\Net\Quartz.net\Ex01\Ex01\bin\Ex01.dll
-E:\Net\Quartz.net\Ex01\Ex01\bin\Ex01.pdb
-E:\Net\Quartz.net\Ex01\Ex01\bin\Quartz.xml
-E:\Net\Quartz.net\Ex01\Ex01\obj\Debug\Ex01.dll
-E:\Net\Quartz.net\Ex01\Ex01\obj\Debug\Ex01.pdb
