@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Web;
 using Quartz;
 using Common.Logging;
+using System.Diagnostics;
 
 namespace Ex01
 {
@@ -14,6 +15,8 @@ namespace Ex01
         {
             // Say Hello to the World and display the date/time
             _log.Info(string.Format("Hello World! - {0}", System.DateTime.Now.ToString("r")));
+
+            Debug.Print("test debug ");
 
             //HttpContext.Current.Response.Write(string.Format("Hello World! - {0}", System.DateTime.Now.ToString("r")));
         }
