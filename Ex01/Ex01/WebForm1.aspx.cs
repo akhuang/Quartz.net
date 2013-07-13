@@ -11,8 +11,8 @@ namespace Ex01
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            //SimpleExample example = new SimpleExample();
-            //example.Run();
+            SimpleExample example = new SimpleExample();
+            example.Run();
         }
     }
 }
